@@ -1,29 +1,65 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+```
+▬▬▬▬.◙.▬▬▬▬
+  ▂▄▄▓▄▄▂ ╫►► ▓
+◢◤ █▀▀████▄▄▄▄▄▄▄◢◤ ● ● ● ▄▄▄▄▄▄▄████▮ ╫ █████████
+█ Niuzj 的 GITHUB █▀▀▀▀╬ ▂▃▄▅████▀▀▀████▅▄ ╫ ▟██⍁██⍁██⍁███▙
+◥█████████◤ ▄█████ 前端 █████▄ ▜████ 学习 c++ ████▛
+══╩════╩══ ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤ ▜████████████████████ ▛╬
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<div align="center" width="50">
+###👽信息
+**您好，我是 [natee](https://natee.github.io/website)。👋 我是来自中国的前端开发人员。**
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+[<img src ="https://img.shields.io/badge/🌐-natee.github.io-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https: //natee.github.io/)
 
-</div>
+### 💯 学习
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
+<a href="https://github.com/natee/awesome-ppt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=awesome-ppt&theme=onedark" />
+</a>
+<a href="https://github.com/natee/build-your-own-vue-next">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=build-your-own-vue-next&theme=onedark" />
+</a>
 
-Happy Coding! 😊
+### 🛠 技术和工具
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![引导程序](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray)
+![汇总](https://img.shields.io/badge/-rollup.js-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PhotoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
+![素描](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
+![Visual Studio 代码](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
+...
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+### 💬 联系我
 
-<i>Follow me:</i><br>
+![Gmail 徽章](https://img.shields.io/badge/-kerncink@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+![微信徽章](https://img.shields.io/badge/-zkShare-7BB32E?style=flat-square&logo=wechat&logoColor=white)
+![QQ徽章](https://img.shields.io/badge/-1835868668-3563d5?style=flat-square&logo=Tencent-QQ)
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+### 🚦 统计
 
-</div>
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api?username=natee&show_icons=true&hide=commits" />
+</a>
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natee&layout=compact" />
+</a>
 
-
-⭐ From [ABSphreak](https://github.com/ABSphreak)
+<p对齐=“中心”>
+  <img src="https://profile-counter.glitch.me/natee/count.svg" />
+</p>
